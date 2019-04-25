@@ -6,9 +6,9 @@
 
 3.  新建 CLASSPATH 变量
 
-   .;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar  
+    .;%JAVA_HOME%\lib;%JAVA_HOME%\lib\tools.jar  
 
-   **只有在 CLASSPATH 变量目录下的class文件才能运行**
+    **只有在 CLASSPATH 变量目录下的class文件才能运行**
 
 4. 测试  `java  -version`
 
